@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "798407141629",
+    "firebase_url": "https://fir-altaoss.firebaseio.com",
+    "project_id": "fir-altaoss",
+    "storage_bucket": "fir-altaoss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798407141629:android:1fb830345d784375",
+        "android_client_info": {
+          "package_name": "com.example.anushak.firebasealtaoss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798407141629-soh52m7ptvd9d8tq3v3e1r57pjlofb1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anushak.firebasealtaoss",
+            "certificate_hash": "e9439d383134dba968061a03c3b06c1947207d20"
+          }
+        },
+        {
+          "client_id": "798407141629-mrq7egnd0o9922a3q0b5p1vpv8te7ken.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anushak.firebasealtaoss",
+            "certificate_hash": "4b9b21574c185ecccd836ea0d6b3766fd77145ca"
+          }
+        },
+        {
+          "client_id": "798407141629-r7u1893lousdc6kk9l530ba2s455uo1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiMcvAqEBQ5PLRWlJ0uxEMV1NfIhTVk3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798407141629-r7u1893lousdc6kk9l530ba2s455uo1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798407141629:android:6df371fd2eb416dcb2b694",
+        "android_client_info": {
+          "package_name": "com.example.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798407141629-r7u1893lousdc6kk9l530ba2s455uo1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiMcvAqEBQ5PLRWlJ0uxEMV1NfIhTVk3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798407141629-r7u1893lousdc6kk9l530ba2s455uo1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798407141629:android:e6f3ba53e06e03dbb2b694",
+        "android_client_info": {
+          "package_name": "com.example.jayaraj.flutter_altaattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798407141629-r7u1893lousdc6kk9l530ba2s455uo1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiMcvAqEBQ5PLRWlJ0uxEMV1NfIhTVk3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798407141629-r7u1893lousdc6kk9l530ba2s455uo1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

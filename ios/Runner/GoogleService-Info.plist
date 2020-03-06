@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>798407141629-4p4cptscefh7eb6f6a0lq9p35t7p55qf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.798407141629-4p4cptscefh7eb6f6a0lq9p35t7p55qf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>798407141629-soh52m7ptvd9d8tq3v3e1r57pjlofb1g.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAwunbbDfCLtUtu4eSyo1LlssDXqRW5itU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>798407141629</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.jayaraj.flutterAltaAttendance</string>
+	<key>PROJECT_ID</key>
+	<string>fir-altaoss</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-altaoss.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:798407141629:ios:274fe68856b08eb7b2b694</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-altaoss.firebaseio.com</string>
+</dict>
+</plist>

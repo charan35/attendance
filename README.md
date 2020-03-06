@@ -1,4 +1,4 @@
-# flutter_altaoss
+# Attendance
 
 A new Flutter application.
 
